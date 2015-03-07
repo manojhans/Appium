@@ -1,3 +1,3 @@
 Appium
 ======
-Android and iOS apps
+Android and iOS testing apps
